@@ -2,7 +2,15 @@
   "metadata": {
     "title": "Droit de l'enfant — base de connaissances e-MFFE justicier",
     "version": "0.1.0",
-    "date_creation": "2026-10-25"
+    "date_creation": "2026-10-25",
+    "date_mise_a_jour": "2026-10-25",
+    "sources": [
+      "famille.gouv.ci (Loi n2019-571 du 26 juin 2019)",
+      "famille.gouv.ci (Loi n2019-570 du 26 juin 2019)",
+      "LEXCI (Code de la Famille, 545 articles)",
+      "gouv.ci (Portail officiel du Gouvernement)",
+      "Code civil Ivoirien (Droit des personnes et de la famille)"
+    ]
   },
   "enregistrements": [
     {
@@ -259,6 +267,65 @@
         "hors mariage",
         "reconnaissance",
         "filiation"
+      ],
+      "questions_non_repondues": [],
+      "creation_date": "2026-10-25"
+    },
+    {
+      "id": "enc-enfant-013",
+      "domaine": "enfant",
+      "titre": "Filiation : plein exercice des droits",
+      "reference": "Loi n2019-571 du 26 juin 2019 relative à la filiation (Code civil I, Livre Ier : Droit des personnes et de la famille), articles 1, 9, 11, 19, 22, 26, 28",
+      "source": "famille.gouv.ci",
+      "niveau_vérité": "source_only",
+      "contenu": "Tout enfant a droit à l'établissement de sa filiation à l'égard de ses auteurs. La filiation des enfants nés dans le mariage se prouve par les actes de naissance inscrits sur les registres de l'état civil. En défaut de ce titre, la possession d'état d'enfant né dans le mariage suffit. La filiation des enfants nés hors mariage résulte à l'égard de la mère, du seul fait de la naissance.",
+      "contexte": "Protection de la filiation dans tous les cas de figure.",
+      "sanctions": "N/A (réglementation de la filiation)",
+      "attitude_recommandee": "Pour un enfant né dans le mariage : consulter le service de l'état civil pour les actes de naissance. Pour un enfant hors mariage : demander la reconnaissance ou une décision de justice.",
+      "questions_clés": [
+        "filiation",
+        "enfant",
+        "droits",
+        "mariage"
+      ],
+      "questions_non_repondues": [],
+      "creation_date": "2026-10-25"
+    },
+    {
+      "id": "enc-enfant-014",
+      "domaine": "enfant",
+      "titre": "Domicile de l'enfant mineur",
+      "reference": "Code civil Ivoirien, Livre I (Droit des personnes et de la famille), articles 102 à 111 (Domicile) ; Loi n2019-570 du 26 juin 2019",
+      "source": "famille.gouv.ci",
+      "niveau_vérité": "source_only",
+      "contenu": "Le domicile de tout Ivoirien, quant à l'exercice de ses droits civils, est au lieu où il a son principal établissement. Le mineur non émancipé aura son domicile chez ses père et mère ou tuteur. Par exception, le mineur peut avoir son domicile séparé de celui de ses père et mère.",
+      "contexte": "Détermination du domicile de l'enfant mineur.",
+      "sanctions": "N/A (règles de domicile)",
+      "attitude_recommandee": "Le mineur a son domicile chez ses père et mère ou tuteur. En cas de désaccord, le tribunal peut fixer le domicile.",
+      "questions_clés": [
+        "domicile",
+        "mineur",
+        "foyer"
+      ],
+      "questions_non_repondues": [],
+      "creation_date": "2026-10-25"
+    },
+    {
+      "id": "enc-enfant-015",
+      "domaine": "enfant",
+      "titre": "Protection des enfants en situation de famille d'accueil",
+      "reference": "Décret 90 de 2023 portant Règlementation des Familles d'Accueil ; Loi n2019-571 du 26 juin 2019 relative à la filiation",
+      "source": "famille.gouv.ci",
+      "niveau_vérité": "source_only",
+      "contenu": "La famille d'accueil est constituée d'un couple formé d'un homme et d'une femme vivant ensemble, d'un homme vivant seul ou d'une femme vivant seule. La famille d'accueil ne doit pas avoir plus de six enfants à son domicile, enfants accueillis y compris, pour un couple, et plus de quatre enfants pour une femme vivant seule ou un homme vivant seul. Le placement dans une famille d'accueil est une mesure de protection prise par le juge des tutelles.",
+      "contexte": "Protection de l'enfant en situation de placement.",
+      "sanctions": "N/A (mesures de protection)",
+      "attitude_recommandee": "Le placement dans une famille d'accueil est pris par le juge des tutelles. La famille d'accueil accepte de recevoir l'enfant dans le respect des conditions fixées par le décret.",
+      "questions_clés": [
+        "placement",
+        "famille d'accueil",
+        "enfant",
+        "protection"
       ],
       "questions_non_repondues": [],
       "creation_date": "2026-10-25"

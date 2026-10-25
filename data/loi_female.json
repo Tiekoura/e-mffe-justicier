@@ -2,7 +2,15 @@
   "metadata": {
     "title": "Droit de la femme — base de connaissances e-MFFE justicier",
     "version": "0.1.0",
-    "date_creation": "2026-10-25"
+    "date_creation": "2026-10-25",
+    "date_mise_a_jour": "2026-10-25",
+    "sources": [
+      "famille.gouv.ci (Loi n2021-894 du 22 décembre 2021)",
+      "famille.gouv.ci (Loi n2019-680 du 14 septembre 2019)",
+      "Code pénal Ivoirien (Loi n°95-90 du 24 février 1995)",
+      "LEXCI (Code de la Famille)",
+      "OHADA / CEDAW (Convention sur l'élimination de toutes les formes de discrimination à l'égard des femmes)"
+    ]
   },
   "enregistrements": [
     {
@@ -151,6 +159,63 @@
         "famille",
         "conciliation",
         "égalité"
+      ],
+      "questions_non_repondues": [],
+      "creation_date": "2026-10-25"
+    },
+    {
+      "id": "fem-female-008",
+      "domaine": "femme",
+      "titre": "Violences domestiques : protection spéciale",
+      "reference": "Loi n2021-894 du 22 décembre 2021 relative aux mesures de protection des victimes de violences domestiques, de viol et de violences sexuelles autres que domestiques",
+      "source": "famille.gouv.ci",
+      "niveau_vérité": "source_only",
+      "contenu": "Loi n2021-894 du 22 décembre 2021 accorde des mesures de protection spéciales aux victimes de violences domestiques, de viol et de violences sexuelles. Les victimes peuvent saisir les juridictions compétentes pour obtenir des mesures de protection immédiate. Le tribunal territorialement compétent est celui du domicile réel ou élu du défendeur.",
+      "contexte": "Protection renforcée des femmes victimes de violences.",
+      "sanctions": "Condamnation pénale pour violences, viol, violences sexuelles",
+      "attitude_recommandee": "Signaler immédiatement la violence. Saisir le tribunal pour obtenir des mesures de protection immédiate.",
+      "questions_clés": [
+        "violence",
+        "violences domestiques",
+        "protection"
+      ],
+      "questions_non_repondues": [],
+      "creation_date": "2026-10-25"
+    },
+    {
+      "id": "fem-female-009",
+      "domaine": "femme",
+      "titre": "Egalité professionnelle et familial",
+      "reference": "Loi n2019-680 du 14 septembre 2019 portant égalité entre les femmes et les hommes ; Code du travail Ivoirien (Loi n95-673 du 24 septembre 1995)",
+      "source": "famille.gouv.ci",
+      "niveau_vérité": "source_only",
+      "contenu": "La loi n2019-680 du 14 septembre 2019 portant égalité entre les femmes et les hommes vise à éliminer les discriminations fondées sur le sexe et à garantir l'égalité de droits et de chances entre les femmes et les hommes en Côte d'Ivoire. Le Code du travail garantit la protection de la femme au travail : interdépendance des horaires, protection pendant la grossesse, après l'accouchement et pendant l'allaitement.",
+      "contexte": "Égalité des chances dans la vie professionnelle et familiale.",
+      "sanctions": "Discrimination sexiste : action en justice, obtenir des dommages et intérêts",
+      "attitude_recommandee": "Toute discrimination à raison du sexe est réprimée. Saisir les tribunaux ou les autorités compétentes si la discrimination est constatée.",
+      "questions_clés": [
+        "égalité",
+        "professionnelle",
+        "discrimination"
+      ],
+      "questions_non_repondues": [],
+      "creation_date": "2026-10-25"
+    },
+    {
+      "id": "fem-female-010",
+      "domaine": "femme",
+      "titre": "Protection de la femme enceinte et de l'enfant à naître",
+      "reference": "Loi n2019-680 du 14 septembre 2019 ; Loi n2019-571 du 26 juin 2019 ; Code de l'enfant (Loi n2013-665 du 29 octobre 2013)",
+      "source": "familles.gouv.ci",
+      "niveau_vérité": "source_only",
+      "contenu": "La femme enceinte et l'enfant à naître bénéficient d'une protection spéciale. L'accouchement et le suivi médical prénatal sont des droits de la femme et de l'enfant. Toute violence portant sur la femme enceinte ou les soins à l'enfant à naître est sanctionnée. Le Code de l'enfant garantit la protection de l'enfant à naître.",
+      "contexte": "Protection spéciale de la mère et de l'enfant pendant la grossesse et l'enfance précoce.",
+      "sanctions": "Violences sur une femme enceinte : peines accrues",
+      "attitude_recommandee": "Assurer les soins prénatals. Signaler toute violence envers la femme enceinte. Demander l'accouchement à l'hôpital.",
+      "questions_clés": [
+        "femme enceinte",
+        "protection maternelle",
+        "accouchement"
       ],
       "questions_non_repondues": [],
       "creation_date": "2026-10-25"

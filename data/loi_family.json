@@ -2,7 +2,15 @@
   "metadata": {
     "title": "Droit de la famille — base de connaissances e-MFFE justicier",
     "version": "0.1.0",
-    "date_creation": "2026-10-25"
+    "date_creation": "2026-10-25",
+    "date_mise_a_jour": "2026-10-25",
+    "sources": [
+      "famille.gouv.ci (Loi n2019-570 du 26 juin 2019)",
+      "famille.gouv.ci (Loi n2019-571 du 26 juin 2019)",
+      "LEXCI (Code de la Famille, 545 articles)",
+      "familles.gouv.ci (Journaux officiels 2022)",
+      "Code civil Ivoirien (Droit des personnes et de la famille)"
+    ]
   },
   "enregistrements": [
     {
@@ -235,6 +243,85 @@
         "obligations",
         "éducation",
         "ménage"
+      ],
+      "questions_non_repondues": [],
+      "creation_date": "2026-10-25"
+    },
+    {
+      "id": "fam-civil-012",
+      "domaine": "famille",
+      "titre": "Domicile de la famille",
+      "reference": "Code civil Ivoirien, Livre I, Titre II (De la famille), articles 56 à 60 ; Loi n2019-570 du 26 juin 2019",
+      "source": "famille.gouv.ci",
+      "niveau_vérité": "source_only",
+      "contenu": "Le domicile de la famille est choisi d'un commun accord par les époux. En cas de désaccord, le domicile de la famille est fixé par le tribunal en tenant compte de l'intérêt de la famille. La femme mariée a l'usage du nom du mari.",
+      "contexte": "Règles du domicile familial.",
+      "sanctions": "N/A (règles de domicile)",
+      "attitude_recommandee": "Conseiller un accord conjoint pour le domicile. En cas de désaccord, saisir le tribunal en tenant compte de l'intérêt de la famille.",
+      "questions_clés": [
+        "domicile",
+        "foyer",
+        "conflit"
+      ],
+      "questions_non_repondues": [],
+      "creation_date": "2026-10-25"
+    },
+    {
+      "id": "fam-civil-013",
+      "domaine": "famille",
+      "titre": "Régime matrimonial : communauté de biens",
+      "reference": "Loi n2019-570 du 26 juin 2019 relative au mariage ; Code civil I (Droit des personnes et de la famille)",
+      "source": "famille.gouv.ci",
+      "niveau_vérité": "source_only",
+      "contenu": "Le régime matrimonial est l'ensemble des règles régissant les effets pécuniaires du mariage dans les rapports des époux entre eux. Par défaut, le régime est la communauté de biens. Les acquêts acquis durant le mariage appartiennent à la communauté.",
+      "contexte": "Protection des biens dans le mariage.",
+      "sanctions": "N/A (règles de régime matrimonial)",
+      "attitude_recommandee": "En l'absence de contrat de mariage, le régime est la communauté de biens. Consulter un notaire pour un régime matrimonial particulier.",
+      "questions_clés": [
+        "régime matrimonial",
+        "communauté",
+        "biens"
+      ],
+      "questions_non_repondues": [],
+      "creation_date": "2026-10-25"
+    },
+    {
+      "id": "fam-civil-014",
+      "domaine": "famille",
+      "titre": "Succession : droits de l'enfant",
+      "reference": "Code civil Ivoirien, Livre III (De la succession), articles 733 à 874 ; Loi n2019-570 du 26 juin 2019",
+      "source": "famille.gouv.ci",
+      "niveau_vérité": "source_only",
+      "contenu": "Les enfants ont droit à une part de la succession, égale entre eux. Le conjoint survivant a droit à une part selon le régime de la succession. L'égalité des droits entre enfants est garantie. Pour accepter une succession, il y a trois formes : acceptation simple, acceptation sous bénéfice d'inventaire, renonciation.",
+      "contexte": "Protection de l'héritage et de l'enfant dans les successions.",
+      "sanctions": "Révocation de l'acte de partage en cas de dol ou de violation des réserves",
+      "attitude_recommandee": "Prendre connaissance du testament ou de l'acte de notoriété. Faire constater l'état des biens. Pour l'enfant, demander le respect de la réserve héréditaire.",
+      "questions_clés": [
+        "succession",
+        "héritage",
+        "réserve",
+        "partage",
+        "part des enfants"
+      ],
+      "questions_non_repondues": [],
+      "creation_date": "2026-10-25"
+    },
+    {
+      "id": "fam-civil-015",
+      "domaine": "famille",
+      "titre": "Divorce : séparation de corps",
+      "reference": "Code civil Ivoirien, Livre I, Titre II, articles 346 à 380 ; Loi n2019-570 du 26 juin 2019",
+      "source": "famille.gouv.ci",
+      "niveau_vérité": "source_only",
+      "contenu": "La séparation de corps est une mesure de protection qui permet à l'un des époux de résider séparément de l'autre en raison de danger au foyer, de violence conjugale ou de comportement tourmenteur. Le juge peut ordonner à l'époux agresseur de quitter le foyer commun, sans préjudice de ses droits de visite et d'hébergement pour l'enfant.",
+      "contexte": "Protection de la victime de violence conjugale.",
+      "sanctions": "Violences conjugales : sanctions pénales",
+      "attitude_recommandee": "Saisir immédiatement le juge des libérations conditionnelles ou le procureur de la République pour une mesure de protection.",
+      "questions_clés": [
+        "séparation",
+        "danger",
+        "violence",
+        "résidence"
       ],
       "questions_non_repondues": [],
       "creation_date": "2026-10-25"

@@ -2,7 +2,14 @@
   "metadata": {
     "title": "Protection des données personnelles — base de connaissances e-MFFE justicier",
     "version": "0.1.0",
-    "date_creation": "2026-10-25"
+    "date_creation": "2026-10-25",
+    "date_mise_a_jour": "2026-10-25",
+    "sources": [
+      "Loi n2014-483 du 21 juillet 2014 relative à la protection des données personnelles",
+      "Règlement (UE) 2016/679 (RGPD)",
+      "Loi n2019-680 du 14 septembre 2019",
+      "Code de l'enfant (Loi n2013-665 du 29 octobre 2013)"
+    ]
   },
   "enregistrements": [
     {
@@ -90,6 +97,46 @@
         "protection",
         "usagers",
         "confidentialité"
+      ],
+      "questions_non_repondues": [],
+      "creation_date": "2026-10-25"
+    },
+    {
+      "id": "dp-rgpd-005",
+      "domaine": "donnees",
+      "titre": "Données des victimes de violences : protection renforcée",
+      "reference": "Loi n2014-483 du 21 juillet 2014 relative à la protection des données personnelles ; Loi n2021-894 du 22 décembre 2021 ; Règlement (UE) 2016/679 (RGPD)",
+      "source": "Loi 2014-483, Loi 2021-894, RGPD",
+      "niveau_vérité": "source_only",
+      "contenu": "Les données des victimes de violences domestiques, de viol et de violences sexuelles sont des données à sensibilité spéciale et sont soumises à une protection renforcée. Le traitement de ces données doit respecter les principes de licéité, de minimisation et de confidentialité. Les victimes ont droit à l'information, à l'accès, à la rectification et à la suppression de leurs données.",
+      "contexte": "Protection des données des victimes de violences (population vulnérable).",
+      "sanctions": "Sanctions administratives et pénales pour non-respect du cadre légal",
+      "attitude_recommandee": "Obtenir le consentement explicite de la victime. Restreindre l'accès aux données. Supprimer les données à la fin de la procédure.",
+      "questions_clés": [
+        "données",
+        "protection",
+        "violences",
+        "confidentialité"
+      ],
+      "questions_non_repondues": [],
+      "creation_date": "2026-10-25"
+    },
+    {
+      "id": "dp-rgpd-006",
+      "domaine": "donnees",
+      "titre": "Conformité des services d'information juridique",
+      "reference": "Loi n2014-483 du 21 juillet 2014 ; Règlement (UE) 2016/679 (RGPD), articles 5, 6, 17, 34",
+      "source": "Loi 2014-483, RGPD",
+      "niveau_vérité": "source_only",
+      "contenu": "Les services d'information juridique (comme e-MFFE justicier) doivent respecter les principes de licéité et de minimisation lors du traitement des données des usagers. Le consentement explicite est requis avant le traitement de données personnelles. Les usagers ont droit à l'information, à l'accès, à la rectification et à la suppression de leurs données. Le service doit mettre en place une politique de confidentialité et un système de gestion des données.",
+      "contexte": "Conformité des services d'information juridique en matière de données personnelles.",
+      "sanctions": "Sanctions administratives et pénales pour non-respect du cadre légal",
+      "attitude_recommandee": "Établir une politique de confidentialité, obtenir le consentement explicite, mettre en place un système de gestion des données, fournir les informations d'obtention des droits aux usagers.",
+      "questions_clés": [
+        "données",
+        "protection",
+        "confidentialité",
+        "service"
       ],
       "questions_non_repondues": [],
       "creation_date": "2026-10-25"
