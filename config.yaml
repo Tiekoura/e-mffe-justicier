@@ -11,6 +11,97 @@ agent:
     - "Droit de la famille"
     - "Protection des données personnelles"
 
+# Paramètres de langue
+langue:
+  # Langue par défaut de l'agent
+  par_defaut: "fr"           # français
+  # Langues supportées (multilingue)
+  prises_en_charge: ["fr", "en", "es", "pt", "ar", "de", "it", "pl"]
+  # Nom de l'agent dans chaque langue
+  noms:
+    fr: "e-MFFE justicier"
+    en: "e-MFFE justicier"
+    es: "e-MFFE justicier"
+    pt: "e-MFFE justicier"
+    ar: "e-MFFE justicier"
+    de: "e-MFFE justicier"
+    it: "e-MFFE justicier"
+    pl: "e-MFFE justicier"
+  # Avertissements par langue
+  avertissements:
+    fr: "Cet outil est informatif et ne constitue pas un conseil juridique définitif."
+    en: "This tool is informative and does not constitute definitive legal advice."
+    es: "Esta herramienta es informativa y no constituye un consejo jurídico definitivo."
+    pt: "Esta ferramenta é informativa e não constitui conselho jurídico definitivo."
+    ar: "هذه الأداة معلوماتية ولا تعتبر نصيحة قانونية نهائية."
+    de: "Dieses Tool ist informativ und stellt keine verbindliche rechtliche Beratung dar."
+  # Grammaire pour l'agent (structure de réponse)
+  grammaire:
+    fr: |
+      1. Introduction dans la langue choisie
+      2. Textes applicables cités avec leur référence complète
+      3. Attitude à tenir
+      4. Sanctions/risques applicables
+      5. Explications de la loi
+      6. Sources officielles
+      7. Avertissement final
+    en: |
+      1. Introduction in the chosen language
+      2. Applicable texts cited with full reference
+      3. Attitude to take
+      4. Potential sanctions/risks
+      5. Explanation of the law
+      6. Official sources
+      7. Final warning
+    es: |
+      1. Introducción en el idioma elegido
+      2. Textos aplicables citados con su referencia completa
+      3. Actitud a tener
+      4. Sanciones/riesgos aplicables
+      5. Explicación de la ley
+      6. Fuentes oficiales
+      7. Aviso final
+    pt: |
+      1. Introdução no idioma escolhido
+      2. Textos aplicáveis citados com referência completa
+      3. Atitude a tomar
+      4. Sanções/riscos aplicáveis
+      5. Explicação da lei
+      6. Fontes oficiais
+      7. Aviso final
+    ar: |
+      1. المقدمة باللغة المختارة
+      2. النصوص المطبقة مشوّحة مع الإشارة الكاملة
+      3. الموقف الذي يجب اتخاذه
+      4. العقوبات/المخاطر المطبقة
+      5. شرح القانون
+      6. المصادر الرسمية
+      7. التحذير النهائي
+    de: |
+      1. Einführung in der gewählten Sprache
+      2. Anwendbare Texte mit vollständiger Referenz zitiert
+      3. Zu nehmender Stand
+      4. Mögliche Sanktionen/Risiken
+      5. Erklärung des Gesetzes
+      6. Offizielle Quellen
+      7. Finales Warnung
+    it: |
+      1. Introduzione nella lingua scelta
+      2. Testi applicabili citati con riferimento completo
+      3. Attitudine da tenere
+      4. Sanzioni/rischi applicabili
+      5. Spiegazione della legge
+      6. Fonti ufficiali
+      7. Avviso finale
+    pl: |
+      1. Wprowadzenie w wybrany język
+      2. Stosunki stosowane cytowane z pełnym odniesieniem
+      3. Postawa do podjęcia
+      4. Możliwe karzeń/rzygi
+      5. Wyjaśnienie prawa
+      6. Źródła oficjalne
+      7. Ostateczne ostrzeżenie
+
 # Informations légales
 legal:
   avise:
