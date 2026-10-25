@@ -1,0 +1,159 @@
+{
+  "metadata": {
+    "title": "Droit de la femme — base de connaissances e-MFFE justicier",
+    "version": "0.1.0",
+    "date_creation": "2026-10-25"
+  },
+  "enregistrements": [
+    {
+      "id": "fem-2019-001",
+      "domaine": "femme",
+      "titre": "Egalité entre les femmes et les hommes",
+      "reference": "Loi n°2019-680 du 14 septembre 2019 portant égalité entre les femmes et les hommes",
+      "source": "Loi 2019-680",
+      "niveau_vérité": "page_extracted",
+      "contenu": "La loi n°2019-680 du 14 septembre 2019 portant égalité entre les femmes et les hommes vise à éliminer les discriminations fondées sur le sexe et à garantir l'égalité de droits et de chances entre les femmes et les hommes en Côte d'Ivoire. La loi concerne tous les domaines : emploi, santé, éducation, participation politique, etc.",
+      "contexte": "Cadre légal général pour l'égalité femmes-hommes en Côte d'Ivoire.",
+      "sanctions": "Discrimination sexiste : action en justice, obtenir des dommages et intérêts",
+      "attitude_recommandee": "Toute discrimination à raison du sexe est réprimée. Saisir les tribunaux ou les autorités compétentes si la discrimination est constatée.",
+      "questions_clés": [
+        "égalité",
+        "discrimination",
+        "femme",
+        "ensemble"
+      ],
+      "questions_non_repondues": [
+        "Dispositions spécifiques sectorielles nécessitent consultation de la loi"
+      ],
+      "creation_date": "2026-10-25"
+    },
+    {
+      "id": "fem-female-002",
+      "domaine": "femme",
+      "titre": "Violences sexistes et sexuelles contre les femmes",
+      "reference": "Code pénal (Loi n°95-90 du 24 février 1995), articles 375 a 377, 392-5 a 392-7 ; Loi n°2019-680 du 14 septembre 2019",
+      "source": "Code pénal, Loi 2019-680",
+      "niveau_vérité": "page_extracted",
+      "contenu": "Le Code pénal ivoirien punit les violences sexuelles contre la femme : viol, violation d'habitation, agressions sexuelles, excisions féminines, harcèlement sexuel, etc. La loi n°2019-680 du 14 septembre 2019 renforce la protection des femmes contre les violences. Les viols et agressions sexuelles sont des délits ou des crimes punis de peines privatives de liberté.",
+      "contexte": "Protection des femmes contre les violences sexuelles et sexistes.",
+      "sanctions": "Condamnation pénale pour viol, agression sexuelle, excision, harcèlement sexuel",
+      "attitude_recommandee": "Signaler immédiatement les violences au policier judiciaire. Saisir le procureur de la République. Pour les cas d'urgence, le fait accompli doit être porté à la connaissance des forces de l'ordre.",
+      "questions_clés": [
+        "viol",
+        "agression sexuelle",
+        "excision",
+        "harcèlement",
+        "violence sexuelle"
+      ],
+      "questions_non_repondues": [
+        "Procédures légales spécifiques pour les poursuites"
+      ],
+      "creation_date": "2026-10-25"
+    },
+    {
+      "id": "fem-female-003",
+      "domaine": "femme",
+      "titre": "Mariage forcé et grossesses précoces",
+      "reference": "Code de l'enfant (Loi n°2013-665 du 29 octobre 2013), article 21 ; Loi n°2019-680 du 14 septembre 2019 ; Code pénal (Loi n°95-90 du 24 février 1995)",
+      "source": "Code de l'enfant, Loi 2019-680, Code pénal",
+      "niveau_vérité": "page_extracted",
+      "contenu": "Le mariage d'un enfant de moins de 18 ans est interdit par la loi. La grossesse et l'accouchement chez l'adolescente sont soumis à des règles de protection. Toute femme mineure mise en situation de grossesse ou de mariage doit être protégée. Le mariage forcé est considéré comme une pratique traditionnelle nuisible et est interdit par la loi.",
+      "contexte": "Protection spéciale des adolescentes et des femmes contre le mariage forcé et les grossesses précoces.",
+      "sanctions": "Ménage forcé : nullité du mariage, sanctions pénales, actions en responsabilité",
+      "attitude_recommandee": "Saisir les services de l'état civil et les autorités de protection de l'enfant (DIRPA). En cas de grossesse chez une mineure, assurer un suivi médical et juridique.",
+      "questions_clés": [
+        "mariage forcé",
+        "grossesse adolescente",
+        "mineure mariée",
+        "protection"
+      ],
+      "questions_non_repondues": [
+        "Services de santé spécifiques à la mineure"
+      ],
+      "creation_date": "2026-10-25"
+    },
+    {
+      "id": "fem-female-004",
+      "domaine": "femme",
+      "titre": "Protection économique et sociale de la femme",
+      "reference": "Code du travail (Loi n°95-673 du 24 septembre 1995) ; Loi n°2019-680 du 14 septembre 2019 ; Code de l'enfant (Loi n°2013-665 du 29 octobre 2013)",
+      "source": "Code du travail, Loi 2019-680",
+      "niveau_vérité": "page_extracted",
+      "contenu": "Le Code du travail ivoirien garantit la protection de la femme au travail : interdépendance des horaires, protection pendant la grossesse, après l'accouchement et pendant l'allaitement. La loi n°2019-680 du 14 septembre 2019 renforce l'accès des femmes a l'emploi et a la propriété.",
+      "contexte": "Égalité des chances et protection de la femme dans le milieu professionnel.",
+      "sanctions": "Licenciement discriminatoire : action en nullité, indemnités",
+      "attitude_recommandee": "Si licenciement injuste ou discrimination, saisir les services du Code du travail ou les tribunaux. Demander des preuves d'égalité de traitement.",
+      "questions_clés": [
+        "emploi",
+        "licenciement",
+        "grossesse",
+        "protection sociale"
+      ],
+      "questions_non_repondues": [
+        "Détachements spécifiques complexes nécessitent lecture de la loi"
+      ],
+      "creation_date": "2026-10-25"
+    },
+    {
+      "id": "fem-female-005",
+      "domaine": "femme",
+      "titre": "Droit à la santé reproductive et sexuelle",
+      "reference": "Loi n°2019-680 du 14 septembre 2019 ; Code de l'enfant (Loi n°2013-665 du 29 octobre 2013) ; Charte Africaine des droits de la femme (Protocole de Maputo)",
+      "source": "Loi 2019-680, Protocole de Maputo",
+      "niveau_vérité": "page_extracted",
+      "contenu": "La femme a droit à la santé reproductive et sexuelle conformément aux obligations internationales et nationales. L'accès aux soins, à la planification familiale et à la protection contre les infections sexuellement transmissibles est un droit de la femme. En Côte d'Ivoire, cette protection est encadrée par la loi et les conventions internationales ratifiées.",
+      "contexte": "Protection de la santé de la femme, particulièrement dans les zones rurales.",
+      "sanctions": "N/A (droit subjectif)",
+      "attitude_recommandee": "Assurer un accès aux soins de santé. Pour la planification familiale, se rapprocher des centres de santé autorisés.",
+      "questions_clés": [
+        "santé",
+        "planification familiale",
+        "infection",
+        "soins"
+      ],
+      "questions_non_repondues": [
+        "Dispositions réglementaires détaillées nécessitent consultation de la réglementation"
+      ],
+      "creation_date": "2026-10-25"
+    },
+    {
+      "id": "fem-female-006",
+      "domaine": "femme",
+      "titre": "Violences domestiques : protection de la femme",
+      "reference": "Loi n°202l-894 du 22 décembre 202l relative aux mesures de protection des victimes de violences domestiques, de viol et de violences sexuelles autres que domestiques",
+      "source": "famille.gouv.ci",
+      "niveau_vérité": "source_only",
+      "contenu": "Loi n°2021-894 accorde des mesures de protection spéciales aux victimes de violences domestiques, de viol et de violences sexuelles. Les victimes peuvent saisir les juridictions compétentes pour obtenir des mesures de protection immédiate.",
+      "contexte": "Protection des femmes victimes de violences.",
+      "sanctions": "Condamnation pénale pour violences, viol, violences sexuelles",
+      "attitude_recommandee": "Signaler immédiatement la violence. Saisir le tribunal pour obtenir des mesures de protection.",
+      "questions_clés": [
+        "violence",
+        "violences domestiques",
+        "protection"
+      ],
+      "questions_non_repondues": [],
+      "creation_date": "2026-10-25"
+    },
+    {
+      "id": "fem-female-007",
+      "domaine": "femme",
+      "titre": "Carrière et famille : conciliation",
+      "reference": "Code civil Ivoirien, Livre I (Droit des personnes et de la famille) ; Loi n°2019-680 du 14 septembre 2019",
+      "source": "LEXCI, Loi 2019-680",
+      "niveau_vérité": "source_only",
+      "contenu": "La loi 2019-680 du 14 septembre 2019 renforce l'égalité entre les femmes et les hommes, notamment dans l'accès à la carrière et la conciliation vie professionnelle et vie familiale.",
+      "contexte": "Égalité des chances dans la vie professionnelle et familiale.",
+      "sanctions": "Discrimination sexiste : action en justice",
+      "attitude_recommandee": "Si discrimination, saisir le tribunal. Exiger une conciliation entre vie pro et vie familiale.",
+      "questions_clés": [
+        "carrière",
+        "famille",
+        "conciliation",
+        "égalité"
+      ],
+      "questions_non_repondues": [],
+      "creation_date": "2026-10-25"
+    }
+  ]
+}

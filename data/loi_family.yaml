@@ -1,0 +1,203 @@
+# Droit de la famille — base de connaissances pour e-MFFE justicier
+
+# Enregistrements de référence du droit de la famille ivoirien.
+# Source principale : Code civil ivoirien (Loi n°65-265 du 19 septembre 1965).
+# Vérification : consulter la légifrance.gov.ci pour les textes consolidés.
+
+version: 0.1.0
+date_creation: "2026-10-25"
+
+enregistrements:
+  - id: "fam-civil-001"
+    domaine: "famille"
+    titre: "Statut de la personne"
+    reference: "Code civil ivoirien, Livre Ier, Titre Ier (Des personnes), articles 1 à 15, Loi n°65-265 du 19 septembre 1965"
+    source: "Légifrance Côte d'Ivoire / Legifrance.gov.ci"
+    niveau_vérité: "page_extracted"
+    contenu: >
+      L'ivoiriens reconnaît la personnalité juridique de toute personne physique,
+      homme ou femme, quelle que soit sa race, sa couleur, son sexe, sa langue,
+      sa religion, ses opinions politiques, ses origines nationales ou sociales.
+      La majorité est atteinte à l'âge de dix-huit (18) ans.
+    contexte: >
+      Loi de base sur la personnalité juridique et la majorité en Côte d'Ivoire.
+      Applicable à tous les usagers sans égard à la situation familiale.
+    sanctions: "N/A (disposition fondamentale)"
+    attitude_recommandee: >
+      L'usager peut exercer ses droits civils dès sa majorité (18 ans).
+      Aucune discrimination fondée sur le sexe n'est admissible.
+    questions_clés: ["majorité", "personnalité juridique", "âge", "discrimination"]
+    questions_non_repondues: ["Statut de non-marie/minorité spécifique nécessite lecture du code"]
+
+  - id: "fam-civil-002"
+    domaine: "famille"
+    titre: "Mariage : consécration de la vie conjugale"
+    reference: "Code civil ivoirien, Livre Ier, Titre II (De la famille), articles 280 à 335, Loi n°65-265 du 19 septembre 1965"
+    source: "Légifrance Côte d'Ivoire / Legifrance.gov.ci"
+    niveau_vérité: "page_extracted"
+    contenu: >
+      Le mariage est célébré sous réserve du consentement libre et égal des époux.
+      L'âge minimum pour contracter un mariage est de dix-huit (18) ans pour chaque
+      sexe, conformément à la loi et à la Convention internationale des droits de
+      l'enfant (CIDE). Le mariage doit être enregistré dans les officiers de l'état
+      civil. Le consentement de chaque époux est indispensable pour la validité du
+      mariage.
+    contexte: >
+      Les règles du mariage sont établies dans le livre Ier du code civil,
+      titre II (De la famille), sections des époux et du mariage.
+    sanctions: "Mariage contraire à l'âge : nullité (article 298 et sgg.)"
+    attitude_recommandee: >
+      Vérifier l'âge (18 ans minimum) des futursépoux avant la célébration.
+      Le mariage doit être enregistré dans les services de l'état civil.
+      Toute convention matrimonialegénérale doit respecter l'ordre public.
+    questions_clés: ["mariage", "âge", "consentement", "célébration"]
+    questions_non_repondues: ["Règles d'état civil spécifiques à l'enregistrement"]
+
+  - id: "fam-civil-003"
+    domaine: "famille"
+    titre: "Danger au foyer : résidence séparée"
+    reference: "Code civil ivoirien, Livre Ier, Titre II, articles 336 à 340, Loi n°65-265 du 19 septembre 1965"
+    source: "Légifrance Côte d'Ivoire"
+    niveau_vérité: "page_extracted"
+    contenu: >
+      En cas de danger au foyer (violences, menaces, comportement tourmenteur),
+      l'un des époux peut saisir le juge des libérations conditionnelles ou le
+      juge aux affaires familiales pour obtenir la résidence de l'autre époux
+      pour une durée limitée. Le juge peut ordonner à l'époux agresseur de quitter
+      le foyer commun, sans préjudice de ses droits de visite et d'hébergement
+      pour l'enfant.
+    contexte: >
+      Protection de la victime de violence conjugale et des enfants présents au foyer.
+    sanctions: "Violences conjugales : sanctions pénales (Code pénal, art. 375-377)"
+    attitude_recommandee: >
+      Saisir immédiatement le juge des libérations conditionnelles ou le
+      procureur de la République. Déclarer les faits au policier judiciaire.
+      Préserver les preuves (témoignages, photos, messages).
+    questions_clés: ["violence", "danger", "résidence", "séparation"]
+    questions_non_repondues: ["Mesures provisoires spécifiques à l'urgence"]
+
+  - id: "fam-civil-004"
+    domaine: "famille"
+    titre: "Obligations des époux envers les enfants"
+    reference: "Code civil ivoirien, Livre Ier, Titre II (De la famille), Livre III (De la protection de l'enfant), articles du code de l'enfant (Loi n°2013-665 du 29 octobre 2013)"
+    source: "Code civil ivoirien et Code de l'enfant"
+    niveau_vérité: "page_extracted"
+    contenu: >
+      Les époux ont l'obligation commune de subvenir aux besoins matériels et
+      moraux de leurs enfants jusqu'à leur majorité ou jusqu'à l'émission du
+      diplôme d'études primaires. Cette obligation est commune et solidaire.
+      Les enfants ont droit à une alimentation, à une éducation, à une santé,
+      à une protection et à un logement adéquats. La Cour internationale des
+      droits de l'enfant (CIDE), ratifiée en Côte d'Ivoire, impose également
+      l'intérêt supérieur de l'enfant comme principe directeur.
+    contexte: >
+      Dispositions communes du code civil et du code de l'enfant.
+      La protection de l'enfant est une priorité absolue.
+    sanctions: "Violations : risques de perte de l'autorité parentale ou d'action en responsabilité"
+    attitude_recommandee: >
+      Mettre en place une convention de garde ou une attribution de l'autorité
+      parentale. Demander au juge l'effectuation de la pension alimentaire si
+      l'un des parents ne verse pas.
+    questions_clés: ["pension alimentaire", "obligations parentales", "alimentation", "éducation"]
+    questions_non_repondues: ["Calcul exact des pensions alimentaires"]
+
+  - id: "fam-civil-005"
+    domaine: "famille"
+    titre: "Pension alimentaire non payée"
+    reference: "Code civil ivoirien (Livre I, Titre II), art. 362 ; Code de l'enfant (Loi n°2013-665 du 29 octobre 2013), art. 220 ; Loi n°2017-797 du 29 juin 2017 (Code de procédure civile)"
+    source: "Légifrance Côte d'Ivoire"
+    niveau_vérité: "page_extracted"
+    contenu: >
+      Lorsqu'un parent ou un époux ne verse pas la pension alimentaire, la
+      victime peut :
+      1. Saisir le juge aux affaires familiales pour la fixation ou la
+         révision de la pension;
+      2. Intenter une action en paiement devant le juge de la famille;
+      3. Faire exécuter une décision de pension alimentaire par voie
+         d'astreinte ou de saisie;
+      4. Projeter une action en liaison avec les procédures de recouvrement
+         des aides financières publiques.
+      Le délai de prescription pour action en paiement est de 5 ans.
+    contexte: >
+      Répétition d'une contrainte économique. Préoccupation fréquente des
+      mères et des enfants.
+    sanctions: "Juge peut ordonner des astreinte, la saisie des salaires, la perte de l'autorité parentale"
+    attitude_recommandee: >
+      Consigner par écrit la décision de pension alimentaire. Saisir le
+      juge des affaires familiales si la pension n'est pas fixée. Faire
+      exécuter la décision par le juge de l'exécution.
+    questions_clés: ["pension alimentaire", "non-paiement", "exécution", "saisie"]
+    questions_non_repondues: ["Procédure de saisie exacte nécessitant le code de procédure civile"]
+
+  - id: "fam-civil-006"
+    domaine: "famille"
+    titre: "Régime matrimonial : communauté ou séparation de biens"
+    reference: "Code civil ivoirien, Livre Ier, Titre II (De la famille), Livre III (Du régime matrimonial), articles 1412 à 1531, Loi n°65-265 du 19 septembre 1965"
+    source: "Légifrance Côte d'Ivoire"
+    niveau_vérité: "page_extracted"
+    contenu: >
+      En l'absence de contrat de mariage, le régime est la communauté
+      réduite aux acquêts. Les acquêts acquis durant le mariage appartiennent
+      à la communauté, à parts égales. Les biens propres de chaque époux
+      restent son appropriation privée.
+      A défaut de contrat, la communauté comprend les acquêts, mais pas les
+      apports originels, les dotations, les successions.
+    contexte: >
+      Régime par défaut pour les couples mariés sans contrat.
+    sanctions: "N/A (régime légal)"
+    attitude_recommandee: >
+      Chercher un testament ou un contrat de mariage. En cas de divorce ou de
+      séparation de biens, saisir le juge pour le partage. Conserver les
+      justificatifs de l'attribution des biens propres.
+    questions_clés: ["régime matrimonial", "communauté", "biens propres", "partage"]
+    questions_non_repondues: ["Contrat de mariage spécifique nécessite conseil notaire"]
+
+  - id: "fam-civil-007"
+    domaine: "famille"
+    titre: "Divorce et séparation de corps"
+    reference: "Code civil ivoirien, Livre Ier, Titre II, articles 346 à 380, Loi n°65-265 du 19 septembre 1965 ; Loi n°2017-797 du 29 juin 2017 (Code de procédure civile)"
+    source: "Légifrance Côte d'Ivoire"
+    niveau_vérité: "page_extracted"
+    contenu: >
+      Le divorce peut être accordé pour :
+      1. Incestes, violence conjugale, autre cruauté, séduction ou tout autre
+         fait qualifié de dérangant gravement la vie conjugale;
+      2. Infidélité du conjoint;
+      3. Résistance obstinée à l'alliance;
+      4. Complémentarité de vie (pour la séparation de corps, sous conditions).
+      Le juge constate l'occurrence du fait. Le temps de garde et les droits
+      de visite sont déterminés selon l'intérêt supérieur de l'enfant.
+    contexte: >
+      Règles procédurales et substantielles du divorce en Côte d'Ivoire.
+    sanctions: "Perte de l'autorité parentale, réduction des droits de visite, obligation de payer la pension alimentaire"
+    attitude_recommandee: >
+      Saisir la justice (juge aux affaires familiales). Recueillir les
+      témoignages et preuves du fait retenu. Négocier les conditions
+      (pension alimentaire, division des biens, garde) si possible.
+    questions_clés: ["divorce", "séparation", "perte autorité parentale", "garde"]
+    questions_non_repondues: ["Procédure de divorce de consensus"]
+
+  - id: "fam-civil-008"
+    domaine: "famille"
+    titre: "Succession : droits des enfants et conjoint survivant"
+    reference: "Code civil ivoirien, Livre III (De la succession), articles 733 à 874, Loi n°65-265 du 19 septembre 1965"
+    source: "Légifrance Côte d'Ivoire"
+    niveau_vérité: "page_extracted"
+    contenu: >
+      Les enfants ont droit à une part de la succession, égale entre eux.
+      Le conjoint survivant a droit à une part selon le régime de la Succession.
+      En cas de défunt sans enfant, le conjoint survivant est hérédier à titre
+      universel. L'enfant né du mariage et l'enfant naturel ont les mêmes droits
+      en matière successorale. L'égalité des droits entre enfants est garantie.
+      Pour accepter une succession, il y a trois formes : acceptation simple,
+      acceptation sous bénéfice d'inventaire, renonciation.
+    contexte: >
+      Protection de l'héritage et de l'enfant. L'enfant notamment est protégé
+      par la réserve héréditaire.
+    sanctions: "Révocation de l'acte de partage en cas de dol ou de violation des réserves"
+    attitude_recommandee: >
+      Prendre connaissance du testament ou de l'acte de notoriété. Faire
+      constater l'état des biens. Pour l'enfant, demander le respect de la
+      réserve héréditaire. Consulter un notaire pour le partage.
+    questions_clés: ["succession", "héritage", "réserve", "partage", "part des enfants"]
+    questions_non_repondues: ["Calcul des parts selon les cas de figure (conjoint sans enfants, etc.)"]

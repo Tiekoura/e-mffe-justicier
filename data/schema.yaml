@@ -1,0 +1,55 @@
+# Knowledge base schema for e-MFFE justicier
+
+# Each legal record represents a specific article or provision.
+type: "legal_record"
+fields:
+  - name: id
+    type: string
+    description: "Unique record identifier (e.g. enc-enfant-001)"
+  - name: domaine
+    type: string
+    enum: [enfant, femme, famille, succession, donnees]
+    description: "Legal domain"
+  - name: titre
+    type: string
+    description: "Short title of the provision"
+  - name: reference
+    type: string
+    description: "Complete legal reference: lois n°..., date, article, page"
+  - name: source
+    type: string
+    description: "Official source or portal"
+  - name: niveau_vérité
+    type: string
+    enum: [web_search_estimated, page_extracted, source_only, verified]
+    description: "Verification level"
+  - name: contenu
+    type: string
+    description: "Text of the provision"
+  - name: contexte
+    type: string
+    description: "Context and scope of applicability"
+  - name: sanctions
+    type: string
+    description: "Applicable sanctions or penalties"
+  - name: attitude_recommandee
+    type: string
+    description: "Recommended course of action"
+  - name: questions_clés
+    type: array
+    items: { type: string }
+    description: "Key questions that trigger this record"
+  - name: questions_non_repondues
+    type: array
+    items: { type: string }
+    description: "Known limitations or things the record cannot answer"
+  - name: creation_date
+    type: string
+    format: date
+    description: "Date the record was created"
+
+# Suggested indexation strategy:
+# 1. Keywords (French and Ivorian French terms)
+# 2. Section codes from config.yaml
+# 3. Types of legal questions (situation types)
+# 4. Competent authorities

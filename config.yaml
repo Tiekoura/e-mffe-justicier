@@ -1,0 +1,68 @@
+# Configuration de l'agent e-MFFE justicier
+
+# Identifiants de l'agent
+agent:
+  name: "e-MFFE justicier"
+  slug: "emffe-justicier"
+  version: "0.1.0"
+  domaines:
+    - "Droit de l'enfant"
+    - "Droit de la femme"
+    - "Droit de la famille"
+    - "Protection des données personnelles"
+
+# Informations légales
+legal:
+  avise:
+    - "Cet outil est informatif et ne constitue pas un conseil juridique définitif."
+    - "Pour un état des lieux précis, une défense ou un dossier, consultez un juriste agréé."
+    - "e-MFFE justicier ne se responsabilise pas des interprétations données."
+  confidentialite:
+    - "Vos questions sont traitées confidentiellement."
+    - "Aucune donnée nominative n'est stockée sans votre consentement explicite."
+    - "Vous pouvez demander la suppression de vos données à tout moment."
+    - "Conformément au Règlement (UE) 2016/679 et à la Loi n°2014-483 du 21 juillet 2014 relative à la protection des données personnelles en Côte d'Ivoire."
+
+#sections : codes de section pour l'indexation des textes
+sections:
+  enfant:
+    - "Code de l'enfant (Loi n°2013-665 du 29 octobre 2013)"
+    - "Convention internationale des droits de l'enfant (CIDE)"
+    - "Loi n°2019-680 du 14 septembre 2019 portant égalité femmes-hommes"
+  femme:
+    - "Loi n°2019-680 du 14 septembre 2019 portant égalité entre les femmes et les hommes"
+    - "Code civil ivoirien (Livre Ier, Titre II : De la famille)"
+    - "Code pénal (agressions sexuelles, violence domestique)"
+  famille:
+    - "Code civil ivoirien (Livre Ier, Titre II : De la famille)"
+    - "Loi n°95-673 du 24 septembre 1995 modifié (Code du travail, articles 33 à 46)"
+    - "Loi n°2017-797 du 29 juin 2017 (Code de procédure civile)"
+    - "Convention internationale sur le droit de la famille (OHADA, lorsqu'applicable)"
+  succession:
+    - "Code civil ivoirien (Livre III : De la succession)"
+    - "Loi n°2017-797 du 29 juin 2017 (Code de procédure civile, part 2)"
+  donnees:
+    - "Loi n°2014-483 du 21 juillet 2014 relative à la protection des données personnelles"
+    - "Règlement (UE) 2016/679 (RGPD)"
+
+# Contact pour orientation vers un juriste
+contact:
+  type: "juriste"
+  guidance: "Pour un état des lieux précis, faire appel à un avocat ou un notaire agréé en Côte d'Ivoire."
+  via: "through the official barreau directory (www.barreau.ci)"
+
+# Générations de rapports
+reporter:
+  format: "docx"
+  output_dir: "output"
+  date_format: "%d/%m/%Y"
+  file_prefix: "rapport_emffe_"
+
+# Niveau de vérification par défaut
+vetting:
+  default_level: "source_only"
+  levels:
+    - "web_search_estimated"  # estimation par recherche web
+    - "page_extracted"        # extrait du texte complet
+    - "source_only"           # citation d'une source officielle
+    - "verified"              # vérifié manuellement

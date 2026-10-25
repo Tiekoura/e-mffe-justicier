@@ -1,0 +1,267 @@
+{
+  "metadata": {
+    "title": "Droit de l'enfant — base de connaissances e-MFFE justicier",
+    "version": "0.1.0",
+    "date_creation": "2026-10-25"
+  },
+  "enregistrements": [
+    {
+      "id": "enc-enfant-001",
+      "domaine": "enfant",
+      "titre": "Definition et protection de l'enfant",
+      "reference": "Code de l'enfant (Loi n°2013-665 du 29 octobre 2013), articles 1 a 15 ; Convention internationale des droits de l'enfant (CIDE, resolution 44/25 de l'Assemblée generale de l'ONU du 20 novembre 1989)",
+      "source": "Code de l'enfant ivoirien, CIDE",
+      "niveau_vérité": "page_extracted",
+      "contenu": "L'enfant est toute personne n'ayant pas atteint l'âge de dix-huit (18) ans, sauf si l'état civil lui donne la majorité antérieurement a cet âge. Le Code de l'enfant vise a garantir a l'enfant tous les droits economiques, sociaux, civils, culturels, politiques et autres. L'intérêt supérieur de l'enfant est un principe directeur. La Côte d'Ivoire a ratifié la CIDE en 1991.",
+      "contexte": "Base légale fondamentale pour toute la protection de l'enfant.",
+      "sanctions": "N/A (principes directeurs)",
+      "attitude_recommandee": "L'intérêt supérieur de l'enfant prime dans toute decision. Toute decision influant sur un enfant doit le prendre sans le miner et en tenant compte de ses opinions.",
+      "questions_clés": [
+        "definition enfant",
+        "majorité",
+        "intérêt supérieur"
+      ],
+      "questions_non_repondues": [
+        "Details sur l'interprétation des articles specifiques"
+      ],
+      "creation_date": "2026-10-25"
+    },
+    {
+      "id": "enc-enfant-002",
+      "domaine": "enfant",
+      "titre": "Filiation de l'enfant : filiation legitime et naturelle",
+      "reference": "Code civil ivoirien, Livre Ier, Titre II (De la famille), articles 280 a 335 ; Code de l'enfant (Loi n°2013-665 du 29 octobre 2013), Livre II (De la filiation)",
+      "source": "Code civil ivoirien et Code de l'enfant ivoirien",
+      "niveau_vérité": "page_extracted",
+      "contenu": "La filiation peut etre etablie par la naissance dans le mariage (filiation legitime), par reconnaissance (filiation naturelle), ou par jugement (filiation judiciaire). L'enfant ne dans le mariage a la filiation du mari (presomption de paternite). L'enfant ne hors mariage doit etre reconnu ou obtenir une decision de justice pour prouver sa filiation. Le refus de reconnaître un enfant ne peut dependre de la situation matrimoniale ou de l'age du parent.",
+      "contexte": "Protection importante de la filiation a tous les stades.",
+      "sanctions": "Refus de reconnaissance : action en reconnaissance en justice ; dette de la filiation : indemnités",
+      "attitude_recommandee": "Renseigner le dossier de reconnaissance aupres du greffe du tribunal. Pour l'enfant non reconnu, saisir le juge aux affaires familiales. Demander des parentés et de l'état civil pour établir la filiation.",
+      "questions_clés": [
+        "filiation",
+        "reconnaissance",
+        "paternité",
+        "désaveu",
+        "enfant hors mariage"
+      ],
+      "questions_non_repondues": [
+        "Dépôts specifiques au procès de filiation necessite une lecture approfondie du code"
+      ],
+      "creation_date": "2026-10-25"
+    },
+    {
+      "id": "enc-enfant-003",
+      "domaine": "enfant",
+      "titre": "Paternité : contestation et désaveu",
+      "reference": "Code civil ivoirien, Livre Ier, Titre II, articles 302 a 309 ; Code de l'enfant, Livre II (De la filiation), articles 260 a 280",
+      "source": "Code civil ivoirien et Code de l'enfant",
+      "niveau_vérité": "page_extracted",
+      "contenu": "Tout homme marie peut contester la paternite de l'enfant. Toute personne peut contester une reconnaissance ou demander la reconnaissance de la paternite. Le désaveu de paternite est soumis a un délai : il doit etre intente dans les délais fixes par la loi (généralement 6 ans a compter de la naissance de l'enfant, sauf circonstances specifiques). Seuls les personnels compétents (marie, père reconnu, ou le procureur de la République dans certains cas) peuvent agir en contestation de paternité.",
+      "contexte": "La contestation de paternité concerne les droits et obligations financières (pension alimentaire) et les liens familiaux.",
+      "sanctions": "Désaveu par jugement ; perte de la qualité de pere ; obligations de pension alimentaire",
+      "attitude_recommandee": "Verifier les délais pour contester la paternité. Saisir le juge aux affaires familiales avec l'ensemble des preuves. Verifier les conditions de la preuve de la paternité.",
+      "questions_clés": [
+        "paternité",
+        "désaveu",
+        "contestataire",
+        "délai",
+        "preuve"
+      ],
+      "questions_non_repondues": [
+        "Circonstances specifiques qui fait exception au délai"
+      ],
+      "creation_date": "2026-10-25"
+    },
+    {
+      "id": "enc-enfant-004",
+      "domaine": "enfant",
+      "titre": "Age minimum pour se marier",
+      "reference": "Code de l'enfant (Loi n°2013-665 du 29 octobre 2013), article 21 ; Convention internationale des droits de l'enfant (CIDE), article 1 ; Loi n°2019-680 du 14 septembre 2019 portant égalité entre les femmes et les hommes",
+      "source": "Code de l'enfant ivoirien et CIDE",
+      "niveau_vérité": "page_extracted",
+      "contenu": "Pour un enfant, la teneur de l'article 21 du Code de l'enfant dispose que la majorité pour le mariage est fixee a dix-huit (18) ans pour chaque sexe. Il est interdit de marier un enfant de moins de 18 ans. La loi n°2019-680 du 14 septembre 2019 renforce l'égalité entre les femmes et les hommes et confirme que les deux époux doivent avoir atteint la majorité pour contracter un mariage.",
+      "contexte": "Protection de l'enfant contre le mariage des mineurs.",
+      "sanctions": "Mariage force ou sous-âge : nullité, sanctions pénales",
+      "attitude_recommandee": "Si un enfant est force de se marier avant 18 ans, c'est un acte illégal. Saisir les services de l'état civil et les autorités de protection de l'enfant (DIRPA, policier judiciaire).",
+      "questions_clés": [
+        "mariage enfantin",
+        "mineur marié",
+        "âge",
+        "interdiction"
+      ],
+      "questions_non_repondues": [
+        "Cas de mariage de majorité"
+      ],
+      "creation_date": "2026-10-25"
+    },
+    {
+      "id": "enc-enfant-005",
+      "domaine": "enfant",
+      "titre": "Violences sur les enfants et protection",
+      "reference": "Code de l'enfant (Loi n°2013-665 du 29 octobre 2013), Livre III (De la protection de l'enfant) ; Code pénal (Loi n°95-90 du 24 février 1995), articles 375 a 377 ; Loi n°2019-680 du 14 septembre 2019",
+      "source": "Code de l'enfant, Code pénal, Loi 2019-680",
+      "niveau_vérité": "page_extracted",
+      "contenu": "Les violences sur un enfant, la privation de nourriture et de soins, les mauvais traitements, l'abandon, l'exploitation et la vente d'enfant sont punis par la loi. La Convention internationale des droits de l'enfant (CIDE) stipule que l'Etat protège l'enfant contre toute forme de violence, d'abus ou de négligence. En Côte d'Ivoire, le ministère de la Protection de l'enfant (MDP) et le policier judiciaire sont les structures compétentes pour signaler ces faits.",
+      "contexte": "Protection de l'enfant contre les abus physiques, psychologiques, sexuels et économiques.",
+      "sanctions": "Condamnation pénale pour violences sur enfant, sévices, abandon, exploitation",
+      "attitude_recommandee": "Signaler immediatement aupres du policier judiciaire ou du ministère de la Protection de l'enfant. S'il y a danger imminent, le faire enfermer temporairement pour sa protection.",
+      "questions_clés": [
+        "violence",
+        "abandon",
+        "exploitation",
+        "violences sexuelles"
+      ],
+      "questions_non_repondues": [
+        "Formes specifiques de violence (en ligne, etc.)"
+      ],
+      "creation_date": "2026-10-25"
+    },
+    {
+      "id": "enc-enfant-006",
+      "domaine": "enfant",
+      "titre": "Femme enceinte et enfant a naître : protection",
+      "reference": "Code de l'enfant (Loi n°2013-665 du 29 octobre 2013) ; Code de la protection de la maternité et de la protection de l'enfant a naître ; Loi n°2019-680 du 14 septembre 2019",
+      "source": "Code de l'enfant ; CIDE",
+      "niveau_vérité": "page_extracted",
+      "contenu": "La mere et l'enfant a naître bénéficient d'une protection spéciale. L'accouchement et le suivi médical prénatal sont des droits de la femme et de l'enfant. Toute violence portant sur la femme enceinte ou les soins a l'enfant a naître est sanctionnée.",
+      "contexte": "Protection spéciale de la mere et de l'enfant pendant la grossesse et l'enfance précoce.",
+      "sanctions": "Violences sur une femme enceinte : peines accrues",
+      "attitude_recommandee": "Assurer les soins prénatals. Signaler toute violence envers la femme enceinte. Demander l'accouchement a l'hôpital.",
+      "questions_clés": [
+        "femme enceinte",
+        "protection maternelle",
+        "accouchement"
+      ],
+      "questions_non_repondues": [
+        "Règles specifiques de la protection de la maternité"
+      ],
+      "creation_date": "2026-10-25"
+    },
+    {
+      "id": "enc-enfant-007",
+      "domaine": "enfant",
+      "titre": "Tutelle, autorité parentale et garde",
+      "reference": "Code civil ivoirien, Livre Ier, Titre II (De la famille), articles 346 a 380 ; Code de l'enfant (Loi n°2013-665 du 29 octobre 2013), Livre IV (De la protection de l'enfant)",
+      "source": "Code civil ivoirien et Code de l'enfant",
+      "niveau_vérité": "page_extracted",
+      "contenu": "L'autorité parentale est exercée conjointement par les deux parents. En cas de séparation ou de divorce, le juge détermine qui exercera l'autorité parentale selon l'intérêt supérieur de l'enfant. La garde de l'enfant peut être dévolue a l'un des parents, a un tiers (tuteur) ou a l'Etat. Les droits de visite et d'hébergement peuvent être accordés a l'enfant si la garde est dévolue a l'un des parents.",
+      "contexte": "Organisation des responsabilités parentales.",
+      "sanctions": "Perte de l'autorité parentale en cas de maltraitance ou de non-participation",
+      "attitude_recommandee": "Proposer une convention de garde. Si les parents ne sont pas d'accord, saisir le juge pour l'attribution de la garde. Le juge prendra la décision selon l'intérêt supérieur de l'enfant.",
+      "questions_clés": [
+        "garde",
+        "autorité parentale",
+        "tutelle",
+        "visite"
+      ],
+      "questions_non_repondues": [
+        "Règles de calcul des parts selon la garde"
+      ],
+      "creation_date": "2026-10-25"
+    },
+    {
+      "id": "enc-enfant-008",
+      "domaine": "enfant",
+      "titre": "Révocation de l'autorité parentale",
+      "reference": "Code civil ivoirien, Livre Ier, Titre II, articles 346 a 380 ; Code de l'enfant (Loi n°2013-665 du 29 octobre 2013), Livre III",
+      "source": "Code civil ivoirien et Code de l'enfant",
+      "niveau_vérité": "page_extracted",
+      "contenu": "L'autorité parentale peut être retirée par le juge si le parent commet des faits graves : maltraitance, négligence, abandon, violences, ou tout autre fait entraînant la perforation de l'intérêt supérieur de l'enfant. Le parent peut également demander la délégation de l'autorité parentale.",
+      "contexte": "Protection de l'enfant face a un parent inapte ou inacceptable.",
+      "sanctions": "Déchéance de l'autorité parentale, perte de la qualité de tuteur",
+      "attitude_recommandee": "Saisir le juge des affaires familiales si les faits justifient la révocation. Demander la mesure de protection de l'enfant.",
+      "questions_clés": [
+        "récidive",
+        "perte autorité parentale",
+        "maltraitance parentale"
+      ],
+      "questions_non_repondues": [
+        "Procédure exacte pour la délégation"
+      ],
+      "creation_date": "2026-10-25"
+    },
+    {
+      "id": "enc-enfant-009",
+      "domaine": "enfant",
+      "titre": "Adoption : manière d'adopter",
+      "reference": "Code de l'enfant (Loi n°2013-665 du 29 octobre 2013), Livre V (De l'adoption)",
+      "source": "Code de l'enfant ivoirien",
+      "niveau_vérité": "page_extracted",
+      "contenu": "L'adoption est régie par le Code de l'enfant. Elle peut être simple, simple avec ou sans rupture des liens de famille, ou internationale. L'adoption implique l'autorisation du juge et le respect des conditions de ressemblance, d'âge et de capacité des personnes qui demandent a adopter.",
+      "contexte": "Protection de l'enfant et restructuration familiale.",
+      "sanctions": "Adoption annulée si les conditions légales ne sont pas respectées",
+      "attitude_recommandee": "Saisir les services du ministère de la Protection de l'enfant ou les tribunaux compétents pour l'adoption. Il est conseillé de consulter un avocat spécialisé dans l'adoption.",
+      "questions_clés": [
+        "adoption",
+        "mariage",
+        "enfant",
+        "paternité",
+        "résidence"
+      ],
+      "questions_non_repondues": [
+        "Conditions specifiques a l'adoption internationale"
+      ],
+      "creation_date": "2026-10-25"
+    },
+    {
+      "id": "enc-enfant-010",
+      "domaine": "enfant",
+      "titre": "Proposition de séparation d'enfant (placement)",
+      "reference": "Code de l'enfant (Loi n°2013-665 du 29 octobre 2013), Livre III (De la protection de l'enfant) ; Code de la protection de l'enfant",
+      "source": "Code de l'enfant ivoirien",
+      "niveau_vérité": "page_extracted",
+      "contenu": "En cas de danger pour l'enfant (violences, abandon, négligence), la demande de placement peut être portée devant le juge aux affaires familiales. Le ministère de la Protection de l'enfant ou le policier judiciaire peut initiator le placement. Le placement peut être en famille d'accueil, en foyer, ou en famille d'accueil provisoire.",
+      "contexte": "Protection de l'enfant en situation de maltraitance.",
+      "sanctions": "N/A (mesure de protection)",
+      "attitude_recommandee": "Saisir le juge des affaires familiales ou le ministre de la Protection de l'enfant pour demander la mesure de protection. S'il y a danger imminent, le faire transitoirement.",
+      "questions_clés": [
+        "placement",
+        "enfant danger",
+        "protection",
+        "famille d'accueil"
+      ],
+      "questions_non_repondues": [
+        "Procédure procédurale spécifique a l'urgence"
+      ],
+      "creation_date": "2026-10-25"
+    },
+    {
+      "id": "enc-enfant-011",
+      "domaine": "enfant",
+      "titre": "Filiation : rapport a l'enfant ne dans le mariage",
+      "reference": "Loi n°2019-571 du 26 juin 2019 relative a la filiation ; Code civil I (Droit des personnes et de la famille)",
+      "source": "famille.gouv.ci",
+      "niveau_vérité": "source_only",
+      "contenu": "Tout enfant a droit à l'établissement de sa filiation à l'égard de ses auteurs. L'enfant conçu pendant le mariage ou né moins de 300 jours après la dissolution du mariage a pour père le mari de sa mère.",
+      "contexte": "Protection de la filiation dans le mariage.",
+      "sanctions": "N/A (réglementation de la filiation)",
+      "attitude_recommandee": "Prouver la filiation par les actes de naissance inscrits sur les registres de l'état civil.",
+      "questions_clés": [
+        "filiation",
+        "enfant mariage",
+        "paternité"
+      ],
+      "questions_non_repondues": [],
+      "creation_date": "2026-10-25"
+    },
+    {
+      "id": "enc-enfant-012",
+      "domaine": "enfant",
+      "titre": "Filiation : enfants nés hors mariage",
+      "reference": "Loi n°2019-571 du 26 juin 2019 relative a la filiation ; Code civil I (Droit des personnes et de la famille)",
+      "source": "famille.gouv.ci",
+      "niveau_vérité": "source_only",
+      "contenu": "La filiation des enfants nés hors mariage résulte à l'égard de la mère, du seul fait de la naissance. La reconnaissance est faite dans l'acte de naissance.",
+      "contexte": "Protection spéciale de l'enfant né hors mariage.",
+      "sanctions": "N/A",
+      "attitude_recommandee": "Pour l'enfant hors mariage, la filiation à l'égard de la mère est automatique. Pour le père, il faut la reconnaissance ou une décision de justice.",
+      "questions_clés": [
+        "hors mariage",
+        "reconnaissance",
+        "filiation"
+      ],
+      "questions_non_repondues": [],
+      "creation_date": "2026-10-25"
+    }
+  ]
+}
